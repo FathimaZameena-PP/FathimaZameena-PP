@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Fathima Zameena P P</h1>
-<h3 align="center">Final-year B.Tech Student | Aspiring Full-Stack Developer 🚀</h3>
+<h3 align="center">Python Django Developer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&width=600&lines=Full-Stack+Developer+%7C+React+%26+Django;Open+to+Software+Dev+Internships;Always+Learning+and+Building" alt="Typing SVG" />
